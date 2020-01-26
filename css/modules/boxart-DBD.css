@@ -1,0 +1,12 @@
+body {
+    overflow: hidden; 
+}
+
+#box-art {
+    display: none;
+    position: absolute;
+    top: 500px;
+    right: 0;
+    left: 1100px;
+    bottom: 0;
+}

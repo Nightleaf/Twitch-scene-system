@@ -1,0 +1,12 @@
+body {
+    background-image: url('http://emeraldlegion.com/twitch/img/dbd.jpg')
+}
+
+#logo {
+    display: none;
+    position: absolute;
+    top: 25%;
+    bottom: 75%;
+    margin-left: 450px;
+    margin-top: -200px;
+}

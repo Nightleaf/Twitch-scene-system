@@ -1,0 +1,60 @@
+/**
+*  - Dead By Daylight style for the Social module
+**/
+
+@font-face {
+	font-family: 'Dead Font Walking'; 
+	src: url('http://emeraldlegion.com/twitch/fonts/Dead Font Walking.ttf') format("opentype");
+}
+
+
+#twitter {
+    display: none;
+    position: absolute;
+    font-family: 'Dead Font Walking'; 
+    /**background: #00aced;*/
+    background-image: url('http://emeraldlegion.com/twitch/img/dbd-social2.png');
+    font-size: 24px;
+    color: white;
+    width: 337px;
+    z-index: 1;
+}
+
+#youtube {
+    display: none;
+    position: absolute;
+    font-family: 'Dead Font Walking'; 
+    /*background: #bb0000;*/
+    background-image: url('http://emeraldlegion.com/twitch/img/dbd-social2.png');
+    font-size: 24px;
+    color: white;
+    width: 337px;
+    z-index: 2;  
+}
+
+#steam {
+    display: none;
+    position: absolute;
+    font-family: 'Dead Font Walking';         
+    /*background: #262626;*/  
+    background-image: url('http://emeraldlegion.com/twitch/img/dbd-social2.png');
+    font-size: 24px;
+    color: #a4d00d;
+    width: 337px;
+    z-index: 3; 
+    display: none;
+}
+
+#twitch {
+    display: none;
+    position: absolute;
+    font-family: 'Dead Font Walking';     
+    /*background: #6441A5;*/
+    background-image: url('http://emeraldlegion.com/twitch/img/dbd-social2.png');
+    font-size: 24px;
+    color: white;
+    width: 337px;
+    z-index: 4; 
+    display: none;
+}
+

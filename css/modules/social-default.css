@@ -1,0 +1,56 @@
+/**
+*  - Default style for the Social module
+**/
+
+@font-face {
+	font-family: 'Dolce Vita'; 
+	src: url('http://emeraldlegion.com/twitch/fonts/Dolce Vita.ttf');
+}
+
+
+#twitter {
+    display: none;
+    position: absolute;
+    font-family: 'Dolce Vita'; 
+    background: #00aced;
+    font-size: 24px;
+    color: white;
+    width: 300px;
+    z-index: 1;
+}
+
+#youtube {
+    display: none;
+    position: absolute;
+    font-family: 'Dolce Vita'; 
+    background: #bb0000;
+    font-size: 24px;
+    color: white;
+    width: 325px;
+    z-index: 2;  
+}
+
+#steam {
+    display: none;
+    position: absolute;
+    font-family: 'Dolce Vita';         
+    background: #262626;  
+    font-size: 24px;
+    color: #a4d00d;
+    width: 300px;
+    z-index: 3; 
+    display: none;
+}
+
+#twitch {
+    display: none;
+    position: absolute;
+    font-family: 'Dolce Vita';     
+    background: #6441A5;
+    font-size: 24px;
+    color: white;
+    width: 300px;
+    z-index: 4; 
+    display: none;
+}
+
